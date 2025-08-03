@@ -46,7 +46,7 @@ Ensure you have Python 3.8 or a newer version installed.
 2. Clone the Repository
 Clone this repository to your local machine using git:
 
-git clone [https://github.com/YOUR_USERNAME/shopper-spectrum.git](https://github.com/YOUR_USERNAME/shopper-spectrum.git)
+git clone [https://github.com/YOUR_USERNAME/shopper-spectrum.git]((https://github.com/hussainabutalha/Shopper-Spectrum-Customer-Segmentation-and-Product-Recommendations-in-E-Commerce/tree/main))
 cd shopper-spectrum
 
 (Replace YOUR_USERNAME with your actual GitHub username)
